@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.5.12",
+  "versionCode": 13,
+  "versionName": "1.5.13",
   "apkUrl": "https://github.com/ruideglan/lumi-releases/releases/latest/download/app-debug.apk",
-  "publishedAt": "2026-09-27T03:33:08Z",
+  "publishedAt": "2026-09-27T14:10:44Z",
   "notes": "Atualiza\u00e7\u00e3o com melhorias de desempenho e corre\u00e7\u00f5es gerais.",
   "forceUpdate": false
 }
